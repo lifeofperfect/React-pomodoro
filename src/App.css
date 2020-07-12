@@ -1,0 +1,65 @@
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.length-container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+h3 {
+  margin-left: 60px;
+}
+
+.btn {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-left: 30px;
+  padding-left: 20px;
+}
+
+button {
+  outline: none;
+  width: 60px;
+  color: #eee;
+  background-color: black;
+}
+p {
+  margin: 0 10px 0 10px;
+}
+
+.session-box {
+  border: 2px solid black;
+  width: 300px;
+  height: 150px;
+  border-radius: 20px;
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px;
+  margin: 40px auto;
+}
+
+h2 {
+  font-size: 3rem;
+  margin-top: 20px;
+}
+
+.timing {
+  margin-top: -20px;
+  font-size: 2rem;
+}
+
+.controls {
+  margin-left: 20px;
+  margin-right: 20px;
+}
